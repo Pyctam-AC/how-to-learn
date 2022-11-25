@@ -1,0 +1,7 @@
+.footer__column_content_social {
+    margin-top: 0;
+    justify-content: start;
+    align-items: baseline;
+    align-content: flex-start;
+    color: #f2f2f2;
+  }
