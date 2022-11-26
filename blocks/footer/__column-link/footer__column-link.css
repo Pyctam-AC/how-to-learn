@@ -6,8 +6,8 @@
     text-align: start;
     text-decoration: none;
     transition: 0.3s linear;
-  }
+}
 
 .footer__column-link:hover {
-  opacity: 0.60;
+    opacity: 0.60;
 }

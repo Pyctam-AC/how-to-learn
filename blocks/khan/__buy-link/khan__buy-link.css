@@ -1,6 +1,6 @@
 .khan__buy-link {
     margin: 0;
-/*    margin-left: 48px;*/
+    height: min-content;
     font-size: 30px;
     font-weight: normal;
     line-height: 42px;
